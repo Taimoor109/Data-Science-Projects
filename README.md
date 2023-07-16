@@ -33,7 +33,6 @@ This activity helped develop my knowledge of linear regression and my skills in 
    * Social media promotion budget (in millions of dollars)
    * Radio promotion budget (in millions of dollars)
    * Sales (in millions of dollars)
-![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/ols%20results.PNG)
 
 **Code:** [Jupyter notebook](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/simple%20linear%20regression.ipynb)
 ![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/EDA.PNG) 
@@ -42,3 +41,4 @@ This activity helped develop my knowledge of linear regression and my skills in 
 **Skills:** EDA, data analysis, hypothesis testing, Simple linear regression, R-squared, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 **Results:** Among TV, social media, and radio, TV had the strongest positive linear relationship with sales. The linear regression model estimates that 99.9% of the variation in sales is explained by the TV promotional budget. In other words, nearly all of the variation in sales can be explained by the TV promotional budget alone, making TV an excellent predictor of sales.
+![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/ols%20results.PNG)
