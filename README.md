@@ -34,8 +34,10 @@ This activity helped develop my knowledge of linear regression and my skills in 
    * Radio promotion budget (in millions of dollars)
    * Sales (in millions of dollars)
 ![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/ols%20results.PNG)
+
 **Code:** [Jupyter notebook](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/simple%20linear%20regression.ipynb)
 ![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/EDA.PNG) 
+
 **The purpose:** of this project is to investigate and build the regression model.
 **Skills:** EDA, data analysis, hypothesis testing, Simple linear regression, R-squared, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
