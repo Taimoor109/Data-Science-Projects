@@ -20,6 +20,7 @@ Tips: For data science projects with python, I would recommend you install numpy
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
 
 ### Regression Modeling For Marketing And Sales Data
+![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/histo_qqplot.PNG)
 In this activity, I used simple linear regression to explore the relationship between two continuous variables. I performed a complete simple linear regression analysis, which included creating and fitting a model, checking model assumptions, analyzing model performance, interpreting model coefficients, and communicating results to stakeholders.
 
 For this activity, I was part of an analytics team that provided insights about marketing and sales. I was assigned to a project that focused on the use of influencer marketing, and I wanted to explore the relationship between marketing promotional budgets and sales. The dataset provided included information about marketing campaigns across TV, radio, and social media, as well as how much revenue in sales was generated from these campaigns. Based on this information, leaders in my company would make decisions about where to focus future marketing efforts, so it was critical for me to have a clear understanding of the relationship between the different types of marketing and the revenue they generated.
