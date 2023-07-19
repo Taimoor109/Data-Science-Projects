@@ -7,14 +7,6 @@ During my courses, I honed my ability to work with complex data and developed a 
 My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf ).
 
 Tips: For data science projects with python, I would recommend you install numpy , pandas , scipy , scikit learn , matplotlib , seaborn these basic libraries.
-## Table of contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  + [Yellow Taxi Trip Data Analysis](#yellow-taxi-trip-data-analysis)
-  + [EDA and visualization of New York City TLC's data](#eda-and-visualization-of-new-york-city-tlc's-data)
-  + [A/B testing](#a/b-testing)
-- [Certificates](#certificates)
-- [Contacts](#contacts)
 
 ## Portfolio Projects
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
