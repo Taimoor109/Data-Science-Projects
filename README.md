@@ -10,7 +10,7 @@ Tips: For data science projects with python, I would recommend you install numpy
 
 ## Portfolio Projects
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
-### Build a multiple linear regression model
+# Build a multiple linear regression model
 
 **Code**
 
@@ -37,7 +37,7 @@ __<u>This activity had three parts:</u>__
 
 * What are business recommendations based on the models built?
 
-### Regression Modeling For Marketing And Sales Data
+# Regression Modeling For Marketing And Sales Data
 ![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/histo_qqplot.PNG)
 
 In this activity, I used simple linear regression to explore the relationship between two continuous variables. I performed a complete simple linear regression analysis, which included creating and fitting a model, checking model assumptions, analyzing model performance, interpreting model coefficients, and communicating results to stakeholders.
