@@ -16,7 +16,9 @@ In this section, I will list data science projects briefly describing the techno
 
 **The goal** was to build a multiple linear regression model and evaluate the model
 <br/>
-*This activity had three parts:*
+
+__<u>This activity had three parts:</u>__
+
 
 **Part 1:** EDA & Checking Model Assumptions
 * What are some purposes of EDA before constructing a multiple linear regression model?
