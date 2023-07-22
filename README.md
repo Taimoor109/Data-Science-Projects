@@ -12,13 +12,18 @@ Tips: For data science projects with python, I would recommend you install numpy
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
 ### Build a multiple linear regression model
 
+**Code**
+
+**Data Source**
+
+**Certificate**
+
 **The purpose** of this project was to demonstrate knowledge of EDA and a multiple linear regression model
 
 **The goal** was to build a multiple linear regression model and evaluate the model
 <br/>
 
 __<u>This activity had three parts:</u>__
-
 
 **Part 1:** EDA & Checking Model Assumptions
 * What are some purposes of EDA before constructing a multiple linear regression model?
