@@ -4,7 +4,7 @@ I have developed a strong foundation in model building and a passion for using d
 
 During my courses, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar-Resume.pdf ).
+My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar%20Resume.pdf).
 
 Tips: For data science projects with python, I would recommend you install numpy , pandas , scipy , scikit learn , matplotlib , seaborn these basic libraries.
 
