@@ -11,8 +11,8 @@ Tips: For data science projects with python, I would recommend you install numpy
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  + [Build a multiple linear regression model](#build_a_multiple_linear_regression_model)
-  + [Regression Modeling For Marketing And Sales Data](#regression_modeling_for_marketing_and_sales_data)
+  + [Build a multiple linear regression model](#build-a-multiple-linear-regression-model)
+  + [Regression Modeling For Marketing And Sales Data](#regression-modeling-for-marketing-and-sales-data)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
   
