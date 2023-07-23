@@ -9,13 +9,12 @@ My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/mai
 Tips: For data science projects with python, I would recommend you install numpy , pandas , scipy , scikit learn , matplotlib , seaborn these basic libraries.
 
 ## Table of contents
--[About](#about)
-- [About](##about)
-- [Portfolio Projects](##portfolio-projects)
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
   + [Build a multiple linear regression model](#build_a_multiple_linear_regression_model)
   + [Regression Modeling For Marketing And Sales Data](#regression_modeling_for_marketing_and_sales_data)
-- [Certificates](##certificates)
-- [Contacts](##contacts)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
   
 ## Portfolio Projects
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
