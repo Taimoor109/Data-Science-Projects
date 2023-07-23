@@ -90,6 +90,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/TRNQF52EZFTF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Jun 2023) (Google)
 - [Go Beyond the Numbers: Translate Data into Insights](https://coursera.org/share/dc87cab475fb35ecb607792c546dcbe1) (Jun 2023) (Google)
 - [The Power of Statistics](https://coursera.org/share/04b98bf0e3e6e1b48f0d7750b3001b2c) (Jul 2023) (Google)
+- [Regression Analysis: Simplify Complex Data Relationships](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Multiple%20linear%20Regression%20Analysis/certificate%20Regression%20Analysis.pdf) (Jul 2023) (Google)
 
 ## Contacts
 - LinkedIn: [Taimoor Akhtar](https://www.linkedin.com/in/taimoorakhtar33/)
