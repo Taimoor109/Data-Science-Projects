@@ -14,10 +14,10 @@ In this section, I will list data science projects briefly describing the techno
 
 <p align="center">
   <a href="https://github.com/Taimoor109/Data-Science-Projects/blob/main/Multiple%20linear%20Regression%20Analysis/heatmap.PNG">
-    <img src="relative/path/to/image1.png" width="400" alt="Image 1">
+    <img src="Multiple linear Regression Analysis/heatmap.PNG" width="400" alt="Image 1">
   </a>
   <a href="https://github.com/Taimoor109/Data-Science-Projects/blob/main/Multiple%20linear%20Regression%20Analysis/mean_duration.PNG">
-    <img src="relative/path/to/image2.png" width="400" alt="Image 2">
+    <img src="Multiple linear Regression Analysis/mean_duration.PNG" width="400" alt="Image 2">
   </a>
 </p>
 
