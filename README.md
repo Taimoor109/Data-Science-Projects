@@ -8,6 +8,14 @@ My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/mai
 
 Tips: For data science projects with python, I would recommend you install numpy , pandas , scipy , scikit learn , matplotlib , seaborn these basic libraries.
 
+## Table of contents
+- [About](##about)
+- [Portfolio Projects](##portfolio-projects)
+  + [Build a multiple linear regression model](#build_a_multiple_linear_regression_model)
+  + [Regression Modeling For Marketing And Sales Data](#regression_modeling_for_marketing_and_sales_data)
+- [Certificates](##certificates)
+- [Contacts](##contacts)
+  
 ## Portfolio Projects
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
 # Build a multiple linear regression model
@@ -74,3 +82,15 @@ This activity helped develop my knowledge of linear regression and my skills in 
 **Results:** Among TV, social media, and radio, TV had the strongest positive linear relationship with sales. The linear regression model estimates that 99.9% of the variation in sales is explained by the TV promotional budget. In other words, nearly all of the variation in sales can be explained by the TV promotional budget alone, making TV an excellent predictor of sales.
 
 ![Alt Text](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Linear%20Regression%20Model/pairplot.PNG)
+
+## Certificates
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have ( with the date of completion in brackets):
+- [Foundations of Data Science](https://coursera.org/share/e3b21e0f3981b99f5d754f58e32b349c) (May 2023) (Google)
+- [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/YNBW6FN2QEGK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Jun 2023) (Google)
+- [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/TRNQF52EZFTF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (Jun 2023) (Google)
+- [Go Beyond the Numbers: Translate Data into Insights](https://coursera.org/share/dc87cab475fb35ecb607792c546dcbe1) (Jun 2023) (Google)
+- [The Power of Statistics](https://coursera.org/share/04b98bf0e3e6e1b48f0d7750b3001b2c) (Jul 2023) (Google)
+
+## Contacts
+- LinkedIn: [Taimoor Akhtar](https://www.linkedin.com/in/taimoorakhtar33/)
+- E-mail: taimoorakhtar33@gmail.com
