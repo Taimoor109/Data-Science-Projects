@@ -12,11 +12,11 @@ Tips: For data science projects with python, I would recommend you install numpy
 In this section, I will list data science projects briefly describing the technology stack used to solve cases.
 # Build a multiple linear regression model
 
-**Code**
+**Code** [Jupyter notebook](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Multiple%20linear%20Regression%20Analysis/_project%20MLR.ipynb)
 
-**Data Source**
+**Data Source** [Yellow Taxi Data](https://github.com/Taimoor109/Data-Science-Projects/blob/main/2017_Yellow_Taxi_Trip_Data%20(2).csv)
 
-**Certificate**
+**Certificate**[Regression Analysis: Simplify Complex Data Relationships](https://github.com/Taimoor109/Data-Science-Projects/blob/main/Multiple%20linear%20Regression%20Analysis/certificate%20Regression%20Analysis.pdf)
 
 **The purpose** of this project was to demonstrate knowledge of EDA and a multiple linear regression model
 
