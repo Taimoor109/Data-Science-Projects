@@ -13,6 +13,7 @@ Tips: For data science projects with python, I would recommend you install numpy
 - [Portfolio Projects](#portfolio-projects)
   + [Build a multiple linear regression model](#build-a-multiple-linear-regression-model)
   + [Regression Modeling For Marketing And Sales Data](#regression-modeling-for-marketing-and-sales-data)
+  + [Tableau Dashboard showcase](https://public.tableau.com/app/profile/taimoor.akhtar/viz/Portfolioproject-TaimoorAkhtar/Dashboard1?publish=yes)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
   
