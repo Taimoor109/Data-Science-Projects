@@ -1,8 +1,7 @@
 # Data-Science-Projects: Model-Building
 ## About
-I have developed a strong foundation in model building and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as a data specialist.
-
-During my courses, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Starting out in law practice, I embarked on a non-traditional journey that eventually led me to data analytics. Though I found fulfillment in dealing with clients and conducting case law research, I realized it wasn't the lifelong path I sought. However, this phase in law equipped me with valuable skills, particularly critical thinking, problem-solving, and assessment. Additionally, I honed essential soft skills, such as interpersonal abilities, which have proven invaluable in the collaborative realm of advanced data analytics.
+ I discovered how technology could augment data analysis, bridging the gap between my humanities perspective and the world of data-driven insights. Embracing this new direction, I embarked on a path that holds exciting opportunities in the data analytics field, where I can make a meaningful impact by combining my diverse skill set and interests.
 
 My CV is in [pdf](https://github.com/Taimoor109/Data_Analysis_Portfolio/blob/main/Taimoor%20Akhtar%20Resume.pdf).
 
